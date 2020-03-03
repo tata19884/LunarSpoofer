@@ -1,0 +1,7 @@
+LunarSpoofer Step by step use!
+
+1. Start LunarSpoofer.exe as Administrator
+
+2. Paste in your license key
+
+3. Select your option. 
